@@ -1,0 +1,11 @@
+0.021   2021-07-25  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- [doc] Mention other ::Iter modules:
+	  {IntRange,NumSeq,Range}::Iter.
+
+
+0.01     2015-12-23  Released-By: PERLANCAR
+
+         - first release.
