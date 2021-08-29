@@ -1,13 +1,14 @@
 package Tie::Array::IntSpan;
 
+use 5.018000;
+use strict;
+use warnings;
+use Log::ger;
+
 # AUTHORITY
 # DATE
 # DIST
 # VERSION
-
-use strict;
-use warnings;
-use Log::ger;
 
 sub TIEARRAY {
     my ($class, $intspan) = @_;
