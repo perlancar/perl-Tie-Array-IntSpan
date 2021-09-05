@@ -159,6 +159,6 @@ Caveats:
 
 L<Array::IntSpan> is the backend that provides the magic.
 
-Other L<Tie::Array::*> modules.
+Other C<Tie::Array::*> modules.
 
 =cut
